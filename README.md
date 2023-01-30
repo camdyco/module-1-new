@@ -25,3 +25,6 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
+![](2023-01-29-23-24-38.png)
+
+![](2023-01-29-23-25-30.png)
